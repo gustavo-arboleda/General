@@ -1,2 +1,3 @@
-# general
-Información de los proyectos que Gustavo Arboleda ha compartido con la comunidad y donde encontrarlos
+# General
+Puedes encontrar información de los proyectos que he compartido con la comunidad en mi perfil de GitLab: https://gitlab.com/gustavo-arboleda
+
